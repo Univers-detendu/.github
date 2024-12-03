@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
-<https://jeanclaude-aventures.com>
+Notre projet en cours : <https://jeanclaude-aventures.com>
 
 <!--
 
