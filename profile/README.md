@@ -1,14 +1,6 @@
 ## Hello 👋
 
-Notre projet en cours : <https://jeanclaude-aventures.com>
+Nos projets :
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+💀 [Les aventures de Jean Claude](https://jeanclaude-aventures.com)  
+_Un jeu d’histoires coopératif ultra simple et convivial, qui permet d’incarner facilement et rapidement un personnage, pour s’initier au jeu de rôle tout en douceur._
